@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+Kelime Kâşifi Mobil Oyunu Gizlilik Politikası
 
-You can use the [editor on GitHub](https://github.com/ozenorhan61/mediaozen/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bu gizlilik politikası ile Media ÖZEN Oluşumunun bir markası olan Kelime Kâşifi Mobil Oyunu (Gizlilik politikasında “Kelime Kâşifi” olarak anılacaktır) üzerinden kullanıcıların Kelime Kâşifi Mobil Oyunu’nda bulunan kişisel bilgilerinin kullanımı ve korunması düzenlenmektedir.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Kullanıcıların kişisel bilgileri, adı – soyadı, doğum tarihi, telefon numarası, e-posta adresi, T.C kimlik numarası gibi kullanıcıyı doğrudan ya da dolaylı olarak tanımlamaya yönelik her türlü kişisel bilgi olup, bu gizlilik politikasında “kişisel bilgiler” olarak anılacaktır.
 
-### Markdown
+Kelime Kâşifi Mobil Oyunu kullanıcılarının kişisel bilgileri, bu gizlilik politikası ile belirlenen esas ve kapsam haricinde hiçbir şekilde kullanılmayacak ve ancak kullanıcının açık rızası ile üçüncü kişilerle paylaşılacaktır.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Kelime Kâşifi Mobil Oyunu, kişisel bilgilerin ve Kelime Kâşifi Mobil Oyunu kullanıcılarının gerçekleştirmiş olduğu işlem bilgilerinin güvenliğini ve gizliliğini sağlamak için gerekli önlemleri almaktadır. Kelime Kâşifi Mobil Oyunu bu amaçla, başka programlar kullanabilir. Ancak, Kelime Kâşifi Mobil Oyunu tarafından gerekli bilgi güvenliği önlemlerinin almasına karşın internet sitesine ve/veya sisteme yapılan saldırılar sonucunda kişisel bilgilerin zarar görmesi veya üçüncü kişilerin eline geçmesi durumunda, Kelime Kâşifi Mobil Oyunu’nun bu nedenle herhangi bir sorumluluğu olmayacaktır.
 
-```markdown
-Syntax highlighted code block
+Bir kullanıcının, bir başka kullanıcının bilgilerine ulaşması ve bu bilgileri değiştirmesi mümkün değildir. Kullanıcının kişisel bilgileri, Kelime Kâşifi Mobil Oyunu haricinde yalnızca kullanıcı tarafından ulaşılabilir ve bu bilgiler ancak kullanıcı tarafından güncellenebilir. Kullanıcının talebi ile kişisel bilgiler Kelime Kâşifi Mobil Oyunu tarafından da güncellenebilecektir.
 
-# Header 1
-## Header 2
-### Header 3
+Kelime Kâşifi Mobil Oyunu, kişisel bilgileri ölçümleme çalışmaları, reklam, tanıtım, pazarlama ile sair iletişim faaliyetleri amacıyla kullanabileceği ve Grup Şirketleri ile iş ortaklarıyla paylaşabileceği gibi Kelime Kâşifi Mobil Oyunu tarafından sunulan hizmet kalitesinin arttırılması ve site faaliyetlerinin daha iyi şekilde yürütülmesi amacıyla da kayıt altına alınabilir ve kullanabilir.
 
-- Bulleted
-- List
+İdari kurumlar ve adli kurumlar tarafından gelen talepler ve bildirimler doğrultusunda kişisel bilgiler, Gizlilik Politikasına uygun olarak adli ve idari kurumlar ile paylaşılabilir.
 
-1. Numbered
-2. List
+Kullanıcının kişisel bilgileri; gerçekleştirilen işlemlerde gerekli görülmesi halinde, sürecin hızlandırılması ve kullanıcılar arasındaki iletişimi sağlamak amacıyla işleme dahil olan diğer kullanıcı ile paylaşılabilir.
 
-**Bold** and _Italic_ and `Code` text
+Kelime Kâşifi Mobil Oyunu, Kelime Kâşifi Mobil Oyununu kullanan kullanıcıların istatistiksel bilgilerini, teknik bir iletişim dosyasını kullanarak elde edebilir. Kullanıcılar isterse, bu dosyayı engellemeye yönelik tarayıcı ayarlarını değiştirebilirler.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ozenorhan61/mediaozen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Kelime Kâşifi Mobil Oyununu cihazına indiren her kullanıcı, Kelime Kâşifi Mobil Oyunu gizlilik politikası hükümlerini kabul etmiş sayılacaktır.
